@@ -3,8 +3,6 @@ Machine learning model are generated using different methods using Python and R 
 <p> Just of Understanding and Practices purpose.
 
 <p><h3> 1. Diabetics_Prediction - Python | Supervised | Classification</h3>
-<a href=https://github.com/AyomiUpeksha/Hands-On-Practices-Python-R-/blob/main/Diabetics_Prediction.ipynb" >Click!</a>
-
 <p> * KNN Algorithm
 <p> * Logistic Regression
 <p> * Naive Bayes Classifier
