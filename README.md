@@ -11,3 +11,6 @@ Machine learning model are generated using different methods using Python and R 
 <p> * Random Forest
 <p> * Gradient Boosting
 <p> * Deep Learning - Working....
+
+<p><h3> 2. MNIST classifier - Python | Supervised | Classification</h3>
+<p> * Stochastic Gradient Descent (SGD Classifier)
