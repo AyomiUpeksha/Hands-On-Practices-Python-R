@@ -19,3 +19,6 @@ Machine learning model are generated using different methods using Python and R 
 
 ### [2. MNIST classifier of cloths](https://github.com/AyomiUpeksha/Hands-On-Practices-Python-R-/blob/main/Classify_images_of_clothing.ipynb) - Python | Supervised | Classification
 - Tenserflow
+
+### [2. Movie Reviews classifier](https://github.com/AyomiUpeksha/Hands-On-Practices-Python-R-/blob/main/Movie_Reviews.ipynb) - Python | Supervised | Classification
+- Tenserflow - GPU is used.
