@@ -1,4 +1,4 @@
-# Hands On Practices (Python & R) &#128517;
+# Hands On Practices (Python & R) &#9889;
 Machine learning model are generated using different methods using Python and R ; 
 <p> Just of Understanding and Practices purpose.
 
@@ -13,11 +13,11 @@ Machine learning model are generated using different methods using Python and R 
 - Gradient Boosting
 - Deep Learning - Working....
 
-### 2. MNIST classifier - Numbers - Python | Supervised | Classification</h3>
+### 2. MNIST classifier - Numbers - Python | Supervised | Classification  </h3> 
 - [Stochastic Gradient Descent (SGD Classifier)](https://github.com/AyomiUpeksha/Hands-On-Practices-Python-R-/blob/main/Binary_Cliassifier_with_MNIST_data.ipynb)
 - [Tenserflow](https://github.com/AyomiUpeksha/Hands-On-Practices-Python-R-/blob/main/MNIST_with_Tens.ipynb)
 
-### [2. MNIST classifier of cloths](https://github.com/AyomiUpeksha/Hands-On-Practices-Python-R-/blob/main/Classify_images_of_clothing.ipynb) - Python | Supervised | Classification
+### [2. MNIST classifier of cloths](https://github.com/AyomiUpeksha/Hands-On-Practices-Python-R-/blob/main/Classify_images_of_clothing.ipynb) - Python | Supervised | Classification 
 - Tenserflow
 
 ### [2. Movie Reviews classifier](https://github.com/AyomiUpeksha/Hands-On-Practices-Python-R-/blob/main/Movie_Reviews.ipynb) - Python | Supervised | Classification
